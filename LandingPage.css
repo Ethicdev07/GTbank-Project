@@ -1096,6 +1096,7 @@ div.numbers{
 
 /* ---mediaquery--- */
 
+
 @media(max-width: 1075px){
     .header2 nav ul li a{
         font-size: .7em;
